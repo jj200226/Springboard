@@ -1,12 +1,12 @@
 # Springboard Mini Projects
 
-##Data Wrangling Projects
--JSON - World Bank Data Set
--SQL
--Quandl API Data
+## Data Wrangling Projects
+- JSON - World Bank Data Set
+- SQL
+- Quandl API Data
 
-##Statistical Methods for Data Analysis
--Frequentist inference
+## Statistical Methods for Data Analysis
+- Frequentist inference
 -Bootstrap inference
 -Bayesian inference
 
